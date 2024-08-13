@@ -1,4 +1,4 @@
-# guessingn game
+# guessing game
 
 go to https://jsfiddle.net/harmlesspotato/o4853dnL/39/ and run
 ![Screenshot 2024-08-13 5 03 01 PM](https://github.com/user-attachments/assets/326b9722-96fe-4eab-bd82-7135ce80a9f5)
